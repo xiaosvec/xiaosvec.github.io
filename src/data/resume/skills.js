@@ -22,7 +22,6 @@ const skills = [
     competency: 2,
     category: ['Web Development', 'Tools'],
   },
-  
   {
     title: 'PostgreSQL/SQLite3/SQL',
     competency: 2,
