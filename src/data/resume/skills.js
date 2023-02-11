@@ -63,6 +63,11 @@ const skills = [
     category: ['Languages'],
   },
   {
+    title: 'LaTeX',
+    competency: 2,
+    category: ['Tools'],
+  },
+  {
     title: 'MATLAB',
     competency: 2,
     category: ['Languages'],
