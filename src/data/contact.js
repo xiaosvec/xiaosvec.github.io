@@ -1,46 +1,40 @@
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
-import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
-import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
+import { faOrcid } from '@fortawesome/free-brands-svg-icons/faOrcid';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
-import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
-import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
+import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
+import { faStrava } from '@fortawesome/free-brands-svg-icons/faStrava';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
 
 const data = [
   {
-    link: 'https://github.com/mldangelo',
+    link: 'https://github.com/xiaomeow',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://facebook.com/md',
-    label: 'Facebook',
-    icon: faFacebookF,
+    link: 'https://orcid.org/0000-0001-5700-9055',
+    label: 'Orcid',
+    icon: faOrcid,
   },
   {
-    link: 'https://www.instagram.com/dangelosaurus/',
-    label: 'Instagram',
-    icon: faInstagram,
-  },
-  {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/xiaomeow/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/michael-d-angelo',
-    label: 'Angel List',
-    icon: faAngellist,
+    link: 'https://facebook.com/xiao.svec',
+    label: 'Facebook',
+    icon: faFacebookF,
   },
   {
-    link: 'https://twitter.com/dangelosaurus',
-    label: 'Twitter',
-    icon: faTwitter,
+    link: 'https://www.strava.com/athletes/74674977',
+    label: 'Strava',
+    icon: faStrava,
   },
   {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:xiao.svec@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
