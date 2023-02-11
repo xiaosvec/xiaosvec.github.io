@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiaomeow/personal-site.git"
+    "url": "https://xiaomeow.github.io"
   },
   "engines": {
     "node": ">=14.x"
